@@ -14,21 +14,7 @@
     height:100%;
     width:100%;
 }
-/* #all-pages .page:nth-child(1){
-    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
-               url(https://raw.githubusercontent.com/Juuggo/FELab/master/fullscreen-scroll/images/bg1.jpg)
-               center / cover;
-}
-#all-pages .page:nth-child(2){
-    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-               url(https://raw.githubusercontent.com/Juuggo/FELab/master/fullscreen-scroll/images/bg2.jpg)
-               center / cover;
-}
-#all-pages .page:nth-child(3){
-    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-               url(https://raw.githubusercontent.com/Juuggo/FELab/master/fullscreen-scroll/images/bg3.jpg)
-               center / cover;
-} */
+
 .text-container img {
 height: 100vh;
 width: 100%;
@@ -45,6 +31,7 @@ width: 100%;
     position: absolute;
     left: 5%;
 }
+
 
 .text-container{
     font-family: sans-serif, helvetica, arial;
@@ -116,10 +103,6 @@ h1 {
     font-size: 3rem;
 }
 
-.info-projet {
-    width: 100%;
-    text-align: center;
-}
 
 .reseaux {
     width: 100%;
@@ -134,7 +117,7 @@ h1 {
 
 .reseaux ul li {
     display:block;
-    float:left  ;
+    float:left;
     justify-content: center;
     text-align: center;    
 }
@@ -188,13 +171,26 @@ margin-top: 60px;
     text-shadow: 0 0 30px rgb(255, 255, 255);
     font-size: 2rem;
 }
-
-
-.caroudiv {
-    width: 605px;
-    margin: 0 auto;
-  }
-
+.info-projet {
+    display: inline-flex;
+}
   .carousel {
-    width: 500px;
-  }
+    width: 100%;
+    display: inline-flex;
+text-align: justify;
+justify-content:space-around;
+margin-left: -5%;
+margin-top: 60px;
+}
+
+.carousel ul {
+    width: 100%;
+    display: inline-flex;
+text-align: justify;
+justify-content:space-around;
+margin-left: -5%;
+margin-top: 60px;
+}
+  /* CAROUSEL */
+
+  

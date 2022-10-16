@@ -24,7 +24,7 @@
             <section class="page">
 
                 <div class="text-container">
-                    <div class="img-container"> <img src="assets\img\dear.jpg" alt=""></div>
+                    <div class="img-container"> <img src="assets\img\backg4.jpg" alt=""></div>
                     <div class="content-container">
                         <div class="info-container">
                             <h1>Benjamin Desenlis</h1>
@@ -37,37 +37,26 @@
                                 </ul>
                             </div>
                         </div>
-
                     </div>
-
                 </div>
             </section>
             <section class="page">
                 <div class="text-container">
-                    <div class="img-container"> <img src="assets\img\coq.jpg" alt=""> </div>
+                    <div class="img-container"> <img src="assets\img\backg4rev.jpg" alt=""> </div>
                     <div class="content-container">
                         <div class="info-projet">
                             <h2>Réalisations et projets</h2>
                             <a>Pour voir tous mes projets web</a>
-                            <div class="caroudiv">
-                                <ul class="carousel">
+                            <div class="carousel">
+                                <ul>
                                     <li>
-                                        <h4>Slide 1</h4>
+                                        <h4>Slide azeaze1ffff</h4>
                                     </li>
                                     <li>
                                         <h4>Slide 2</h4>
                                     </li>
                                     <li>
                                         <h4>Slide 3</h4>
-                                    </li>
-                                    <li>
-                                        <h4>Slide 4</h4>
-                                    </li>
-                                    <li>
-                                        <h4>Slide 5</h4>
-                                    </li>
-                                    <li>
-                                        <h4>Slide 6</h4>
                                     </li>
                                 </ul>
                             </div>
@@ -81,7 +70,7 @@
             </section>
             <section class="page">
                 <div class="text-container">
-                    <div class="img-container"> <img src="assets\img\panda.jpg" alt=""> </div>
+                    <div class="img-container"> <img src="assets\img\backg5.jpg" alt=""> </div>
                     <div class="content-container">
                         <h2>Services</h2>
                         <div class="service-container">
@@ -110,7 +99,7 @@
             </section>
             <section class="page">
                 <div class="text-container">
-                    <img src="assets\img\ecureil.jpg" alt="">
+                    <img src="assets\img\backg6.jpg" alt="">
                 </div>
             </section>
         </div>

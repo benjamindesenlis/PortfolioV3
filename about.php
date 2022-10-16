@@ -60,15 +60,7 @@
                                     <li>
                                         <h4>Slide 3</h4>
                                     </li>
-                                    <li>
-                                        <h4>Slide 4</h4>
-                                    </li>
-                                    <li>
-                                        <h4>Slide 5</h4>
-                                    </li>
-                                    <li>
-                                        <h4>Slide 6</h4>
-                                    </li>
+                                    
                                 </ul>
                             </div>
                         </div>
