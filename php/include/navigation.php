@@ -10,7 +10,7 @@
 
                 <!-- site menu/nav -->
                 <ul>
-                    <li><a href="#">Accueil</a></li>
+                    <li><a href="index.php">Accueil</a></li>
                     <li><a href="about.php">A propos de moi</a></li>
                     <li><a href="#">Réalisations</a></li>
                     <li><a href="#">Services</a></li>

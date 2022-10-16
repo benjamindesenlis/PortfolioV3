@@ -44,7 +44,7 @@
             </section>
             <section class="page">
                 <div class="text-container">
-                    <div class="img-container"> <img src="assets\img\coq.jpg" alt=""> </div>
+                    <div class="img-container"> <img src="assets\img\backgrev.png" alt=""> </div>
                     <div class="content-container">
                         <div class="info-projet">
                             <h2>Réalisations et projets</h2>
@@ -81,7 +81,7 @@
             </section>
             <section class="page">
                 <div class="text-container">
-                    <div class="img-container"> <img src="assets\img\panda.jpg" alt=""> </div>
+                    <div class="img-container"> <img src="assets\img\backg2.jpg" alt=""> </div>
                     <div class="content-container">
                         <h2>Services</h2>
                         <div class="service-container">
@@ -110,7 +110,7 @@
             </section>
             <section class="page">
                 <div class="text-container">
-                    <img src="assets\img\ecureil.jpg" alt="">
+                    <img src="assets\img\backg2rev.jpg" alt="">
                 </div>
             </section>
         </div>
