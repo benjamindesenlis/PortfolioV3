@@ -36,6 +36,15 @@
                                     <li><img src="assets\img\twitter.png" alt=""></li>
                                 </ul>
                             </div>
+                            <div class="resume">
+                                <h2>Qui suis-je ?</h2>
+                                <a>Benjamin, 29 ans et dévoleppeur web depuis 2021
+                                    Après une carrière dans le batiment et autre métier alimentaire et plus récemment educateur sportif j'ai décidé de me ré-orienter vers le monde du web pour exprimer ma passion du graphisme melée à la conception et réalisation de site web dynamique.
+                                    Conscient de l'importance de vos business, je me propose comme solution pour implémenter votre marque ou votre entreprise de façon digital car comme vous le savez c'est très compliqué de se développer sans l'utilisation d'internet.
+                                    A l'écoute de vos attentes, je proposerais mes services pour mélanger fluidité et performance pour votre site web.
+                                    Dans la suite de cette page je vous montrerai l'évolution de mon parcours.
+                                </a>
+                            </div>
                         </div>
 
                     </div>
@@ -47,22 +56,8 @@
                     <div class="img-container"> <img src="assets\img\backgrev.png" alt=""> </div>
                     <div class="content-container">
                         <div class="info-projet">
-                            <h2>Réalisations et projets</h2>
+                            <h2>Mon parcours</h2>
                             <a>Pour voir tous mes projets web</a>
-                            <div class="caroudiv">
-                                <ul class="carousel">
-                                    <li>
-                                        <h4>Slide 1</h4>
-                                    </li>
-                                    <li>
-                                        <h4>Slide 2</h4>
-                                    </li>
-                                    <li>
-                                        <h4>Slide 3</h4>
-                                    </li>
-                                    
-                                </ul>
-                            </div>
                         </div>
 
                         <!-- Slider main container -->
